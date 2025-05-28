@@ -54,7 +54,9 @@ This is a beginner-friendly **Voice Assistant** built using Python as part of my
 To create a foundation for a natural language-based assistant capable of answering questions and performing simple tasks using voice interaction.
 
 ## Output Screens
-![image alt]("C:\Users\chiduralas\Pictures\Screenshots\Screenshot 2025-05-28 230047.png")
+![Screenshot 2025-05-28 230047](https://github.com/user-attachments/assets/57ff07f5-1bbf-4779-87b6-58e8d829f743)
+
 
 ## Video Reference
-"C:\Users\chiduralas\Videos\VSDC Free Screen Recorder\vsdc-sr 2025-05-28 22-14-32.mp4"
+https://github.com/user-attachments/assets/583ff008-21d8-40ff-aeb0-b880fa4ad63b
+
